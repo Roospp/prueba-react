@@ -1,11 +1,3 @@
-# Video Youtube Roosevelt
-
-Link: https://youtu.be/WkMbumzxt-0
-
-
-
-
-
 
 # Getting Started with Create React App
 
